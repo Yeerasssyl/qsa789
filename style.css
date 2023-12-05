@@ -105,13 +105,11 @@ h3 {
         width: auto;
     }
  }
-  @media (max-width: 950px) {
+  @media (max-width: 850px) {
     body {
         background-image: url("img/8.jpg");
-        background-attachment: fixed;
-        background-size: cover;
-        width: 100vw;
-        
+        background-attachment: local;
+        backgroung-size: 100%;
     }
 }
 @media (max-width: 850px) {
