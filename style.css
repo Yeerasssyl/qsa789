@@ -70,6 +70,21 @@ div.bal {
     margin: auto;
     align-content: center;
 }
+div.url {
+    margin: auto;
+    width: 22%;
+    padding: 15px;
+    align-content: center;
+    background-color: SandyBrown;
+    border-radius: 15px;
+}
+a.ser {
+    font-size: 60px;
+    text-decoration: none;
+    color: MediumSlateBlue;
+    align-content: center;
+
+}
 .container {
             max-width: 800px;
             margin: 50px auto;
