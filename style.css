@@ -133,6 +133,9 @@ h3 {
         .ser {
             font-size: 10px;
         }
+    .url {
+        width: 27%;
+    }
 }
 @media (max-width: 750px) {
     .container {
