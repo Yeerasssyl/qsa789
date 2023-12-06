@@ -79,7 +79,7 @@ div.url {
     border-radius: 15px;
 }
 a.ser {
-    font-size: 60px;
+    font-size: 55px;
     text-decoration: none;
     color: MediumSlateBlue;
     align-content: center;
@@ -110,7 +110,6 @@ div.end {
 h3 {
     align: center;
     font-size: 60px;
-    color: ;
 }
 
  @media (max-width: 1000px) {
