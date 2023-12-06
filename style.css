@@ -131,11 +131,8 @@ h3 {
     h3 {
         font-size: 40px;
     }
-    .url {
-            width: 10%;
-        }
         .ser {
-            font-size: 20px;
+            font-size: 10px;
         }
 }
 @media (max-width: 750px) {
